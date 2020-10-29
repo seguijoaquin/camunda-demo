@@ -1,5 +1,9 @@
 # Camunda Demo APP
 
+## BPM
+
+![bpm](bpm.png)
+
 ## Endpoints
 
  - `POST /tasks`
@@ -18,3 +22,4 @@ _Request body_
  - `GET /tasks/:id`
    
  - `GET /ping`
+ 
